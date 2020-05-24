@@ -15,6 +15,13 @@ Few of the Statistical Plots:
     df.plot.kde
     df.plot.pie
 
+![area plot](https://github.com/iamsamuelhere/PandasVisulalizations/blob/master/area.png)
+![](https://github.com/iamsamuelhere/PandasVisulalizations/blob/master/lineplots.png)
+![](https://github.com/iamsamuelhere/PandasVisulalizations/blob/master/scatter.png)
+![](https://github.com/iamsamuelhere/PandasVisulalizations/blob/master/barplots.png)
+![](https://github.com/iamsamuelhere/PandasVisulalizations/blob/master/hex.png)
+![](https://github.com/iamsamuelhere/PandasVisulalizations/blob/master/hist.png)
+![](https://github.com/iamsamuelhere/PandasVisulalizations/blob/master/kdepng.png)
 
 
 
